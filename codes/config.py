@@ -1,0 +1,2 @@
+LLAMA_API_KEY = "llx-yom5lc4fqes8xtq2dkne1YpVZSvNvZ7UWfItriNtJ6yj3NLX"
+GROQ_API_KEY = "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"
